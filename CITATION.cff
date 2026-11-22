@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite them as below."
+title: "Reproduction materials: regression coefficients and cohort statistics from shared tree-ensemble models"
+type: software
+license: MIT
+authors:
+  - family-names: Ebrahim
+    given-names: Ebrahim Khaled
+    orcid: "https://orcid.org/0009-0006-7839-8778"
+    affiliation: "Alexandria University"
+  - family-names: Soliman Gaafar
+    given-names: Mohammad Ibrahim Ahmmad
+    affiliation: "Alexandria University"
+version: 1.0.0
+repository-code: "https://github.com/ebrahimkhaled/treeipf-reproducibility"

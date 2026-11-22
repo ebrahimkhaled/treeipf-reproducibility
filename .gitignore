@@ -1,0 +1,5 @@
+results/reps/
+results/libmodels/
+*.Rhistory
+.RData
+__pycache__/

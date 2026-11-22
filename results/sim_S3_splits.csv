@@ -1,0 +1,11 @@
+study,family,scenario,n,rho,depth,b5,term,n_splits,unsplit,routed_mass
+S3,binomial,linear,800,0.4,3,0,X1,99.34,0,0.793288269721525
+S3,binomial,linear,800,0.4,3,0,X2,94.67,0,0.673339106568368
+S3,binomial,linear,800,0.4,3,0,X3,82.29,0,0.629683475021144
+S3,binomial,linear,800,0.4,3,0,X4,22.445,0,0.246321475191218
+S3,binomial,linear,800,0.4,3,0,X5,48.11,0,0.231834155115355
+S3,gaussian,linear,800,0.4,3,0,X1,134.645,0,0.804863372684803
+S3,gaussian,linear,800,0.4,3,0,X2,131.155,0,0.718371952224397
+S3,gaussian,linear,800,0.4,3,0,X3,104.63,0,0.602275489874019
+S3,gaussian,linear,800,0.4,3,0,X4,28.16,0,0.238247618758179
+S3,gaussian,linear,800,0.4,3,0,X5,51.73,0,0.195597490905698

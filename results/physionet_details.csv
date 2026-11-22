@@ -1,0 +1,17 @@
+item,value
+share temp_max <= 36.6,0.0223141207891789
+mortality temp_max <= 36.6,0.281853281853282
+mortality 36.6 < temp_max <= 38.0,0.132581936823372
+uniform design share below 37.0,0.2584
+TreeIPF share below 37.0,0.106953978626532
+data share below 37.0,0.0782286551219092
+temp_max mean (data),37.9200482467477
+temp_max sd (data),0.746042737889061
+temp_max mean (TreeIPF),37.9046039307785
+temp_max sd (TreeIPF),0.782596633506838
+uniform design lower edge,35.6396567212418
+uniform design upper edge,40.8613860178681
+mechvent splits,3
+mechvent routed mass,0.00250740441572429
+gcs_min splits,116
+"cor(mechvent, gcs_min)",-0.814855842646611

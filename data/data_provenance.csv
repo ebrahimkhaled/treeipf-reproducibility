@@ -1,0 +1,8 @@
+dataset,step,n,excluded,events,note
+IST,raw records in IST_corrected.csv,19435,,,
+IST,6-month outcome known (OCCODE 1-4),19285,150,12125,OCCODE 0 or 9 excluded
+IST,complete on the 8 predictors used here,18304,981,11535,"missing: ratrial 981 (RATRIAL was not collected in the pilot phase, the first 984 patients)"
+IST,top 12 countries by size (analysed in the paper),15580,2724,10138,country numbers 27 14 25 18 15 24 1 17 29 22 16 7; selected in 02_run_clinical_studies.R
+PhysioNet2012,"ICU stays in sets A, B, C",12000,,1707,"set A 4000, set B 4000, set C 4000"
+PhysioNet2012,in-hospital outcome known,12000,0,1707,
+PhysioNet2012,complete on the 10 predictors used here (analysed in the paper),11607,393,1671,"missing: female 12, hr_max 184, sbp_min 184, temp_max 185, gcs_min 185, bun_max 183, creat_max 183, wbc_max 215"

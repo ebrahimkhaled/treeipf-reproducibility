@@ -1,0 +1,11 @@
+{
+  "title": "Reproduction materials: regression coefficients and cohort statistics from shared tree-ensemble models",
+  "upload_type": "software",
+  "license": "MIT",
+  "description": "Code, data and results for the paper 'Regression coefficients and cohort statistics from shared tree-ensemble models without patient data: a simulation study and clinical applications'. TreeIPF reads shared tree-ensemble model files (rpart, XGBoost JSON, scikit-learn, ranger), rebuilds the predictor distribution from the leaf counts by iterative proportional fitting, and gives regression coefficients, standard errors and a bootstrap bias correction; the same functions measure what a file discloses about its training cohort.",
+  "creators": [
+    {"name": "Ebrahim, Ebrahim Khaled", "affiliation": "Department of Applied Statistics, Faculty of Business, Alexandria University", "orcid": "0009-0006-7839-8778"},
+    {"name": "Soliman Gaafar, Mohammad Ibrahim Ahmmad", "affiliation": "Department of Applied Statistics, Faculty of Business, Alexandria University"}
+  ],
+  "keywords": ["tree ensembles", "gradient boosting", "random forests", "iterative proportional fitting", "meta-analysis", "model sharing", "privacy", "simulation study"]
+}
