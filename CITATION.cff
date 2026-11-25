@@ -8,8 +8,5 @@ authors:
     given-names: Ebrahim Khaled
     orcid: "https://orcid.org/0009-0006-7839-8778"
     affiliation: "Alexandria University"
-  - family-names: Soliman Gaafar
-    given-names: Mohammad Ibrahim Ahmmad
-    affiliation: "Alexandria University"
 version: 1.0.0
 repository-code: "https://github.com/ebrahimkhaled/treeipf-reproducibility"
